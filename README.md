@@ -3,4 +3,4 @@ sequence
 
 draw Sequence Diagram by a asymptote script.
 
-![demo](https://github.com/qiupin/sequence/blob/master/demo.eps)
+![demo](https://github.com/qiupin/sequence/blob/master/demo.png)

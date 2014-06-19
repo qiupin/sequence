@@ -22,7 +22,7 @@
  */
 
 import settings;
-outformat="pdf";
+outformat="jpg";
 
 void showbox(string name);
 

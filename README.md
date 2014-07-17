@@ -5,6 +5,8 @@ draw Sequence Diagram by a asymptote script.
 
 ![demo](https://github.com/qiupin/sequence/raw/master/demo.jpg)
 
+~~~
+
 import message;
 
 showbox('UA-A');
@@ -40,3 +42,5 @@ rtp(1,4);
 rtp(4,5);
 
 endmsg();
+
+~~~

@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 窗帘样式展示
 
 You can use the [editor on GitHub](https://github.com/qiupin/sequence/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -25,6 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAKdFOk.img?h=1080&w=1920&m=6&q=60&o=f&l=f)
 ```
+款式1
 
 ![Image Test](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAKdFOk.img?h=1080&w=1920&m=6&q=60&o=f&l=f)
 

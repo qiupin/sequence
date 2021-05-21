@@ -8,7 +8,7 @@
 
 款式2
 
-![Image Test](https://t7.baidu.com/it/u=1754788235,2357109804&fm=193&f=GIF)
+![Image Test](http://img11.360buyimg.com/n1/jfs/t1/4721/28/6075/416905/5ba1c8caEdbf46cb3/ff0cd9aa61a64d00.jpg)
 
 文字描述，很多文字描述，文字描述，很多文字描述，文字描述，很多文字描述，文字描述，很多文字描述，文字描述，很多文字描述，
 
